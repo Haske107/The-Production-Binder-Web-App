@@ -1,0 +1,127 @@
+.header{
+  display: flex;
+  justify-content: center;
+  background-color: #488DDE;
+  opacity: .5;
+}
+
+.img-container  {
+  display: flex;
+  justify-content: center;
+}
+
+
+.title-container  {
+  padding: 70px;
+}
+.title {
+  font-family: "Bookman Old Style";
+    font-size: 70px;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 750;
+    line-height: 26.4px;
+    color: #161C41;
+
+;
+
+    flex:1;
+    text-align: center;
+}
+
+.lower  {
+  display:flex;
+  justify-content: center;
+  padding : 50px;
+  background-color: #696969;
+}
+
+.loader {
+  padding: 20px;
+  flex: 1;
+
+}
+
+.loader2 {
+  padding: 20px;
+  flex: 1;
+}
+
+.form1  {
+  padding:80px;
+}
+
+.username {
+
+}
+
+.password {
+  flex-basis: 90%
+
+}
+
+.icon {
+ pading: 50px;
+}
+.form-row {
+  padding: 10px ;
+  display:flex;
+  justify-content: center;
+}
+
+.info {
+  align-content:center;
+  justify-content: center;
+  background: red; /* For browsers that do not support gradients */
+  background: -webkit-linear-gradient(135deg,rgba(255,0,0,0),rgba(255,0,0,1)); /*Safari 5.1-6*/
+  background: -o-linear-gradient(135deg,rgba(255,0,0,0),rgba(255,0,0,1)); /*Opera 11.1-12*/
+  background: -moz-linear-gradient(135deg,rgba(255,0,0,0),rgba(255,0,0,1)); /*Fx 3.6-15*/
+  background: linear-gradient(135deg, rgba(255,0,0,0), #20A7DE); /*Standard*/
+}
+
+.box  {
+  padding: 60px;
+
+}
+.buttons-container {
+  display:flex;
+  justify-content:center;
+}
+
+.sign-in  {
+  flex:1;
+  padding :50px;
+  background: -webkit-linear-gradient(135deg,#294B7A,#161C41); /*Safari 5.1-6*/
+  background: -o-linear-gradient(135deg,#294B7A,#161C41); /*Opera 11.1-12*/
+  background: -moz-linear-gradient(135deg,#294B7A,#161C41); /*Fx 3.6-15*/
+  background: linear-gradient(135deg, #294B7A, #161C41);
+}
+
+.sign-up  {
+  flex:1;
+  padding :50px;
+  background: -webkit-linear-gradient(135deg,#294B7A,#161C41); /*Safari 5.1-6*/
+  background: -o-linear-gradient(135deg,#294B7A,#161C41); /*Opera 11.1-12*/
+  background: -moz-linear-gradient(135deg,#294B7A,#161C41); /*Fx 3.6-15*/
+  background: linear-gradient(135deg, #294B7A, #161C41);
+}
+
+.sign-in-btn-text {
+  font-family: "Bookman Old Style";
+    font-size: 20px;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 750;
+    line-height: 26.4px;
+    color: #FFF;
+}
+
+.sign-up-btn-text {
+  font-family: "Bookman Old Style";
+    font-size: 20px;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 750;
+    line-height: 26.4px;
+    color: #FFF;
+}

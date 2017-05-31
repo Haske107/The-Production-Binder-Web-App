@@ -1,0 +1,29 @@
+
+  "people" :  [
+      {
+        "username" : "Haske107",
+        "password" : "12345",
+        "first_name" : "John",
+        "last_name" : "Wick",
+        "collections" :  [
+            {
+                "location_id" : "1"
+            }],
+        "locations_uploaded" : [
+            {
+                "location_id" : "1"
+            }],
+        "locations_viewed" : [
+            {
+              "location_id" : "1"
+            }],
+        "contact" :
+            {
+              "isOwner" : "true",
+              "location_id" : "1",
+              "phone" : "714-473-0540",
+              "email" : "Haske107@mail.chapman.edu"
+            }
+      }
+    ]
+}
